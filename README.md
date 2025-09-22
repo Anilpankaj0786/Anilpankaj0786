@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-creator.com/banner?text=Anil%20Pankaj%20-%20Big%20Data%20Engineer&bgColor=gradient" width="100%" alt="banner"/>
+  <img src="https://media.licdn.com/dms/image/D4E16AQFoH8wBZmMIOA/profile-displaybackgroundimage-shrink_350_1400/0/1671638778314?e=1682553600&v=beta&t=vYS_u-wYAWClASmWdDmMpXqJ3KIjtKi6uiGMaDHKL7E" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Anil Pankaj</h1>
